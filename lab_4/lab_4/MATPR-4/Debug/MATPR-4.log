@@ -1,0 +1,5 @@
+﻿  MATPR-4.cpp
+e:\учеба\2курс\4сем\matproga\lab_4\lab_4\matpr-4\matpr-4.cpp(44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+e:\учеба\2курс\4сем\matproga\lab_4\lab_4\matpr-4\matpr-4.cpp(47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MATPR-4.vcxproj -> E:\учеба\2курс\4сем\MatProga\lab_4\lab_4\Debug\MATPR-4.exe
+  MATPR-4.vcxproj -> E:\учеба\2курс\4сем\MatProga\lab_4\lab_4\Debug\MATPR-4.pdb (Full PDB)
